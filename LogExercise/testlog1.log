@@ -1,0 +1,128 @@
+2022-11-06 22:50:23,480 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:50:28,327 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:30,877 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:32,475 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:32,815 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:36,498 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:36,507 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:37,702 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:37,708 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:38,109 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:50:39,572 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:41,357 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:43,341 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:43,854 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:47,477 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:47,510 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:48,742 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:48,754 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:49,078 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:50:50,883 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:52,824 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:53,890 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:54,442 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:50:55,538 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:41,487 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:57:44,547 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:46,165 [main] INFO NOP Comm Login - max browser
+2022-11-06 22:57:46,204 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:46,206 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 22:57:47,657 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:47,658 [main] INFO NOP Comm Login - enter email: admin@yourstore.com
+2022-11-06 22:57:47,879 [main] INFO NOP Comm Login - enter pass: admin
+2022-11-06 22:57:48,055 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:48,056 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 22:57:51,339 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:51,340 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 22:57:51,556 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:51,557 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 22:57:52,733 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:52,743 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:52,745 [main] INFO NOP Comm Login - close Application
+2022-11-06 22:57:53,188 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:57:54,690 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:56,570 [main] INFO NOP Comm Login - max browser
+2022-11-06 22:57:56,599 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:56,599 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 22:57:58,161 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:58,162 [main] INFO NOP Comm Login - enter email: admin@yourstore.com
+2022-11-06 22:57:58,546 [main] INFO NOP Comm Login - enter pass: admin
+2022-11-06 22:57:58,818 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:57:58,819 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 22:58:02,567 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:02,567 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 22:58:02,574 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:02,574 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 22:58:04,022 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:04,034 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:04,035 [main] INFO NOP Comm Login - close Application
+2022-11-06 22:58:04,406 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 22:58:05,961 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:07,614 [main] INFO NOP Comm Login - max browser
+2022-11-06 22:58:07,631 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:07,632 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 22:58:09,065 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:09,067 [main] INFO NOP Comm Login - enter email: admin123@yourstore.com
+2022-11-06 22:58:09,356 [main] INFO NOP Comm Login - enter pass: admin123
+2022-11-06 22:58:09,544 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:09,546 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 22:58:09,946 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 22:58:09,947 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 23:17:03,124 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 23:17:06,154 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:07,961 [main] INFO NOP Comm Login - max browser
+2022-11-06 23:17:08,012 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:08,013 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 23:17:09,398 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:09,399 [main] INFO NOP Comm Login - enter email: admin@yourstore.com
+2022-11-06 23:17:09,612 [main] INFO NOP Comm Login - enter pass: admin
+2022-11-06 23:17:09,777 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:09,778 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:17:13,109 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:13,110 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 23:17:13,131 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:13,132 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:17:14,424 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:14,430 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:14,431 [main] INFO NOP Comm Login - close Application
+2022-11-06 23:17:14,804 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 23:17:16,284 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:17,829 [main] INFO NOP Comm Login - max browser
+2022-11-06 23:17:17,852 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:17,853 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 23:17:19,392 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:19,393 [main] INFO NOP Comm Login - enter email: admin123@yourstore.com
+2022-11-06 23:17:19,613 [main] INFO NOP Comm Login - enter pass: admin123
+2022-11-06 23:17:20,026 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:20,027 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:17:20,996 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:17:20,996 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 23:18:22,295 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 23:18:25,212 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:25,437 [main] INFO NOP Comm Login - max browser
+2022-11-06 23:18:25,521 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:25,523 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 23:18:27,353 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:27,354 [main] INFO NOP Comm Login - enter email: admin@yourstore.com
+2022-11-06 23:18:27,548 [main] INFO NOP Comm Login - enter pass: admin
+2022-11-06 23:18:27,737 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:27,738 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:18:30,278 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:30,279 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
+2022-11-06 23:18:30,290 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:30,291 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:18:31,466 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:31,475 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:31,477 [main] INFO NOP Comm Login - close Application
+2022-11-06 23:18:31,708 [main] INFO NOP Comm Login - Execution on browser: chrome
+2022-11-06 23:18:33,198 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:33,335 [main] INFO NOP Comm Login - max browser
+2022-11-06 23:18:33,351 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:33,351 [main] INFO NOP Comm Login - launch app : https://admin-demo.nopcommerce.com/admin/
+2022-11-06 23:18:34,683 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:34,684 [main] INFO NOP Comm Login - enter email: admin123@yourstore.com
+2022-11-06 23:18:34,873 [main] INFO NOP Comm Login - enter pass: admin123
+2022-11-06 23:18:35,039 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:35,040 [main] INFO NOP Comm Login - click on Login Button
+2022-11-06 23:18:35,948 [main] INFO NOP Comm Login - =================executeBeforeEachSteps=========================
+2022-11-06 23:18:35,949 [main] INFO NOP Comm Login - Application Title: Dashboard / nopCommerce administration
